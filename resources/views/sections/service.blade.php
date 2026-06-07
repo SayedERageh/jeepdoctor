@@ -72,8 +72,8 @@
                                 <p><i class="fa fa-check text-success ms-3"></i>حل مشاكل الكهرباء والحساسات</p>
 
                                 <a href="https://wa.me/201224351919" class="btn btn-primary py-3 px-5 mt-3">
-                                    اعرف المزيد
-                                    <i class="fa fa-arrow-left me-3"></i>
+
+ابدا محادثة وتس اب                                    <i class="fa fa-arrow-left me-3"></i>
                                 </a>
                             </div>
 
@@ -109,8 +109,7 @@
                                 <p><i class="fa fa-check text-success ms-3"></i>رفع كفاءة العزم والسحب</p>
 
                                 <a href="https://wa.me/201224351919" class="btn btn-primary py-3 px-5 mt-3">
-                                    اعرف المزيد
-                                    <i class="fa fa-arrow-left me-3"></i>
+ابدا محادثة وتس اب                                      <i class="fa fa-arrow-left me-3"></i>
                                 </a>
                             </div>
 
@@ -146,7 +145,7 @@
                                 <p><i class="fa fa-check text-success ms-3"></i>فحص زيت وبرمجة الجير</p>
 
                                 <a href="https://wa.me/201224351919" class="btn btn-primary py-3 px-5 mt-3">
-                                    اعرف المزيد
+                                  ابدا محادثة وتس اب  
                                     <i class="fa fa-arrow-left me-3"></i>
                                 </a>
                             </div>
@@ -183,7 +182,7 @@
                                 <p><i class="fa fa-check text-success ms-3"></i>ضبط الثبات والأداء</p>
 
                                 <a href="https://wa.me/201224351919" class="btn btn-primary py-3 px-5 mt-3">
-                                    اعرف المزيد
+                                ابدا محادثة وتس اب  
                                     <i class="fa fa-arrow-left me-3"></i>
                                 </a>
                             </div>

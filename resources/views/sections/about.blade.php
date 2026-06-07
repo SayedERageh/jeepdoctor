@@ -84,8 +84,8 @@
 
                 </div>
 
-                <a href="" class="btn btn-primary py-3 px-5">
-                    احجز الآن
+                <a href="https://wa.me/201224351919" class="btn btn-primary py-3 px-5">
+                    كلمنا الان 
                     <i class="fa fa-arrow-left me-3"></i>
                 </a>
 

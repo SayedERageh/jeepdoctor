@@ -6,7 +6,7 @@
 </head>
 
 <body>
-
+@include('sections.float')
     @include('includes.spinner')
 
     @include('includes.header')

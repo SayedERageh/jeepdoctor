@@ -12,35 +12,49 @@
             </div>
         </div>
 
-        <div class="col-lg-5 px-5 text-end">
-            <div class="h-100 d-inline-flex align-items-center py-3 me-4">
-                <small class="fa fa-phone-alt text-primary me-2"></small>
-                <small>01224351919</small>
-            </div>
+   <div class="col-lg-5 px-5 text-end">
+    <div class="h-100 d-inline-flex align-items-center py-3 me-4">
+        <small class="fa fa-phone-alt text-primary me-2"></small>
+        <small>01224351919</small>
+    </div>
 
-            <div class="h-100 d-inline-flex align-items-center">
-                <!-- Facebook -->
-                <a class="btn btn-sm-square bg-white text-primary me-1"
-                   href="https://www.facebook.com/elsakka4x4"
-                   target="_blank">
-                    <i class="fab fa-facebook-f"></i>
-                </a>
+    <div class="h-100 d-inline-flex align-items-center">
+        <!-- Facebook -->
+        <a class="btn btn-sm-square bg-white text-primary me-1"
+           href="https://www.facebook.com/elsakka4x4"
+           target="_blank">
+            <i class="fab fa-facebook-f"></i>
+        </a>
 
-                <!-- WhatsApp -->
-                <a class="btn btn-sm-square bg-white text-primary me-1"
-                   href="https://wa.me/201224351919"
-                   target="_blank">
-                    <i class="fab fa-whatsapp"></i>
-                </a>
+        <!-- WhatsApp -->
+        <a class="btn btn-sm-square bg-white text-primary me-1"
+           href="https://wa.me/201224351919"
+           target="_blank">
+            <i class="fab fa-whatsapp"></i>
+        </a>
 
-                <!-- Instagram -->
-                <a class="btn btn-sm-square bg-white text-primary me-0"
-                   href="https://www.instagram.com/elsakagada"
-                   target="_blank">
-                    <i class="fab fa-instagram"></i>
-                </a>
-            </div>
-        </div>
+        <!-- Instagram -->
+        <a class="btn btn-sm-square bg-white text-primary me-1"
+           href="https://www.instagram.com/elsakagada"
+           target="_blank">
+            <i class="fab fa-instagram"></i>
+        </a>
+
+        <!-- TikTok -->
+        <a class="btn btn-sm-square bg-white text-primary me-1"
+           href="https://www.tiktok.com/@saka.191919"
+           target="_blank">
+<i class="fa-brands fa-tiktok"></i>
+        </a>
+
+        <!-- YouTube -->
+        <a class="btn btn-sm-square bg-white text-primary me-0"
+           href="https://youtube.com/@mohamedelsaka-c2z"
+           target="_blank">
+            <i class="fab fa-youtube"></i>
+        </a>
+    </div>
+</div>
     </div>
 </div>
 <!-- Topbar End -->
@@ -67,8 +81,8 @@
     من نحن
 </a>
 
-<a href="{{ route('services') }}"
-   class="nav-item nav-link {{ request()->routeIs('services') ? 'active' : '' }}">
+<a href="{{ route('services.index') }}"
+   class="nav-item nav-link {{ request()->routeIs('services.index') ? 'active' : '' }}">
     خدماتنا
 </a>
 

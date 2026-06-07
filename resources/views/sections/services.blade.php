@@ -14,7 +14,6 @@
                             نقدم خدمات صيانة دقيقة واحترافية لسيارات الجيب الأمريكي
                             مع ضمان أعلى مستوى من الجودة.
                         </p>
-                        <a class="text-secondary border-bottom" href="#services">المزيد</a>
                     </div>
 
                 </div>
@@ -31,7 +30,6 @@
                             فريق عمل بخبرة كبيرة في سيارات Jeep الأمريكية
                             وتشخيص الأعطال المعقدة بدقة عالية.
                         </p>
-                        <a class="text-secondary border-bottom" href="#services">المزيد</a>
                     </div>
 
                 </div>
@@ -48,7 +46,6 @@
                             نستخدم أحدث أجهزة الكمبيوتر المتخصصة لفحص أعطال الجيب
                             وتشخيص المشاكل الإلكترونية بدقة.
                         </p>
-                        <a class="text-secondary border-bottom" href="#services">المزيد</a>
                     </div>
 
                 </div>

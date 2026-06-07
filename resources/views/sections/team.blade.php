@@ -26,9 +26,9 @@
 
                         <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
 
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-whatsapp"></i></a>
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square mx-1" href="https://www.facebook.com/elsakka4x4"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square mx-1" href="https://wa.me/201224351919"><i class="fab fa-whatsapp"></i></a>
+                            <a class="btn btn-square mx-1" href="https://www.instagram.com/elsakagada"><i class="fab fa-instagram"></i></a>
 
                         </div>
 
@@ -58,9 +58,9 @@
 
                         <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
 
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-whatsapp"></i></a>
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square mx-1" href="https://www.facebook.com/elsakka4x4"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square mx-1" href="https://wa.me/201224351919"><i class="fab fa-whatsapp"></i></a>
+                            <a class="btn btn-square mx-1" href="https://www.instagram.com/elsakagada"><i class="fab fa-instagram"></i></a>
 
                         </div>
 
@@ -90,9 +90,10 @@
 
                         <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
 
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-whatsapp"></i></a>
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-instagram"></i></a>
+                   
+                            <a class="btn btn-square mx-1" href="https://www.facebook.com/elsakka4x4"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square mx-1" href="https://wa.me/201224351919"><i class="fab fa-whatsapp"></i></a>
+                            <a class="btn btn-square mx-1" href="https://www.instagram.com/elsakagada"><i class="fab fa-instagram"></i></a>
 
                         </div>
 
@@ -122,9 +123,10 @@
 
                         <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
 
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-whatsapp"></i></a>
-                            <a class="btn btn-square mx-1" href="#"><i class="fab fa-instagram"></i></a>
+                          
+                            <a class="btn btn-square mx-1" href="https://www.facebook.com/elsakka4x4"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square mx-1" href="https://wa.me/201224351919"><i class="fab fa-whatsapp"></i></a>
+                            <a class="btn btn-square mx-1" href="https://www.instagram.com/elsakagada"><i class="fab fa-instagram"></i></a>
 
                         </div>
 

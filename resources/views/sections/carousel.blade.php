@@ -28,8 +28,8 @@
                                     متخصصون في صيانة وخدمة الجيب الأمريكي بالكامل
                                 </h1>
 
-                                <a href="" class="btn btn-primary py-3 px-5 animated slideInDown">
-                                    اعرف المزيد
+                                <a href="https://wa.me/201224351919" class="btn btn-primary py-3 px-5 animated slideInDown">
+                                    كلمنا وتس اب 
                                     <i class="fa fa-arrow-right ms-3"></i>
                                 </a>
 
