@@ -27,5 +27,14 @@
 <link href="{{ asset('assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css') }}" rel="stylesheet">
 
 <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18257600477"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-18257600477');
+</script>
 
 <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
